@@ -1,8 +1,8 @@
-h1{ 
+/* h1{ 
         background-color: red;
          color: white; 
          text-align: center;
-}
+} */
 p{
     background-color: aqua;
     color: brown;
@@ -11,4 +11,12 @@ p{
 
 body{
     background-color: black;
+}
+.bg-red-h1{
+    background-color: red;
+    color: aliceblue;
+}
+.bg-blue-h1{
+    background-color: blue;
+    color: aliceblue;
 }
